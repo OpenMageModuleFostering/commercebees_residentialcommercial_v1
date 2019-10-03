@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Residential/Commercial is a Magento module to indicate whether the customers' addresses are Residential or Commercial
